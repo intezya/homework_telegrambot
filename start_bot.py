@@ -20,4 +20,4 @@ async def start_up(token) -> None:
 
 
 if __name__ == "__main__":
-    asyncio.run(start_up('6974396575:AAG8NcWoQkMelOUzLhwt-tF3RXKjxjg6fGY'))
+    asyncio.run(start_up('TOKENHERE'))
